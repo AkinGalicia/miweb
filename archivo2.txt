@@ -1,1 +1,1 @@
-Hola mundo desde archivo 2
+Hola mundo
